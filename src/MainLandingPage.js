@@ -60,7 +60,7 @@ const PreviewCard = tw(motion.a)`block rounded-lg shadow-raised`;
 const PreviewCardImageContainer = tw.div`rounded-t-lg border-0 border-b-0`;
 const PreviewCardImage = styled(motion.div)`
   ${props => css`background-image: url("${props.imageSrc}");`}
-  ${tw`h-128 md:h-144 bg-cover bg-left-top`}
+  ${tw`bg-left-top bg-cover h-128 md:h-144`}
 `;
 const PreviewButton = tw(PrimaryButtonBase)`w-full rounded-b-lg rounded-t-none py-5 font-semibold`;
 
@@ -123,7 +123,7 @@ export default ({
               <img src={logo} alt="" />
               Treact
             </LogoLink>
-            <DownloadLink target="_blank" href="https://gum.co/QaruQ">
+            <DownloadLink target="_blank" href="https://github.com/w3bdesign/React-themes-tailwind">
               Download Now
             </DownloadLink>
           </NavRow>
