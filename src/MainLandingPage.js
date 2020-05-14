@@ -121,7 +121,7 @@ export default ({
           <NavRow>
             <LogoLink href="/">
               <img src={logo} alt="" />
-              Treact
+              React Themes With Tailwind CSS
             </LogoLink>
             <DownloadLink target="_blank" href="https://github.com/w3bdesign/React-themes-tailwind">
               Download Now
