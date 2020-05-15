@@ -16,6 +16,8 @@ All components are modular and fully responsive for great mobile experience as w
 
 - Fully Customizable
 
+## Running application
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
