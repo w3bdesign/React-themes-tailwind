@@ -1,15 +1,18 @@
+# React Themes Tailwind CSS
+
 Easily customizable modern React UI Templates and Components built using TailwindCSS which are also lightweight and simple to setup. All components are modular and fully responsive for great mobile experience as well as big desktop screens. Brand Colors are also fully customizable.
 
-7 Landing Page Demos
+- 7 Landing Page Demos
 
-8 Inner Pages
+- 8 Inner Pages
 
-52 Components
+- 52 Components
 
-Uses TailwindCSS
+- Uses TailwindCSS
 
-Fully Responsive
-Fully Customizable
+- Fully Responsive
+
+- Fully Customizable
 
 ### `yarn start`
 
