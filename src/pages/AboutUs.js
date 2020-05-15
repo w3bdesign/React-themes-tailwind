@@ -22,7 +22,7 @@ export default () => {
     <AnimationRevealPage>
       <Header />
       <MainFeature1
-        subheading={<Subheading>About Treact</Subheading>}
+        subheading={<Subheading>About React Theme Tailwind</Subheading>}
         heading="We are a modern desgin agency."
         buttonRounded={false}
         primaryButtonText="See Portfolio"

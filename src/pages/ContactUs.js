@@ -27,7 +27,7 @@ export default () => {
                   <AddressLine>40 Gates Court</AddressLine>
                   <AddressLine>Endicott, NY 13760</AddressLine>
                 </Address>
-                <Email>contact@treact.com</Email>
+                <Email>contact@React Theme Tailwind.com</Email>
                 <Phone>+1 (203) 991-6988</Phone>
               </>
             )
@@ -40,7 +40,7 @@ export default () => {
                   <AddressLine>602 Annadale Drive</AddressLine>
                   <AddressLine>Dekalb, IL 60115</AddressLine>
                 </Address>
-                <Email>contact@treact.com</Email>
+                <Email>contact@React Theme Tailwind.com</Email>
                 <Phone>+1 (203) 991-6988</Phone>
               </>
             )
@@ -53,7 +53,7 @@ export default () => {
                   <AddressLine>96 NE. Delaware Lane</AddressLine>
                   <AddressLine>Sacramento, CA 95820</AddressLine>
                 </Address>
-                <Email>contact@treact.com</Email>
+                <Email>contact@React Theme Tailwind.com</Email>
                 <Phone>+1 (203) 991-6988</Phone>
               </>
             )
@@ -66,7 +66,7 @@ export default () => {
                   <AddressLine>74 Peachtree Ave.</AddressLine>
                   <AddressLine>Dyersburg, TN 38024</AddressLine>
                 </Address>
-                <Email>contact@treact.com</Email>
+                <Email>contact@React Theme Tailwind.com</Email>
                 <Phone>+1 (203) 991-6988</Phone>
               </>
             )
@@ -79,7 +79,7 @@ export default () => {
                   <AddressLine>8355 Summer Street</AddressLine>
                   <AddressLine>Manchester, NJ 08759</AddressLine>
                 </Address>
-                <Email>contact@treact.com</Email>
+                <Email>contact@React Theme Tailwind.com</Email>
                 <Phone>+1 (203) 991-6988</Phone>
               </>
             )
@@ -92,7 +92,7 @@ export default () => {
                   <AddressLine>7713 Snake Hill Ave.</AddressLine>
                   <AddressLine>Piqua, OH 45356</AddressLine>
                 </Address>
-                <Email>contact@treact.com</Email>
+                <Email>contact@React Theme Tailwind.com</Email>
                 <Phone>+1 (203) 991-6988</Phone>
               </>
             )
