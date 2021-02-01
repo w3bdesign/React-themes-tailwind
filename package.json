@@ -19,7 +19,7 @@
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.2.1",
     "tailwindcss": "^1.9.6",
-    "twin.macro": "^1.0.0-alpha.7",
+    "twin.macro": "^2.2.0",
     "use-in-view": "^1.0.15"
   },
   "scripts": {
