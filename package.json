@@ -18,7 +18,7 @@
     "react-slick": "^0.28.0",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.2.1",
-    "tailwindcss": "^2.0.2",
+    "tailwindcss": "^2.0.3",
     "twin.macro": "^2.2.2",
     "use-in-view": "^1.0.15"
   },
