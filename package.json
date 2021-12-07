@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^13.1.1",
     "feather-icons": "^4.26.0",
@@ -17,7 +17,7 @@
     "react-scripts": "4.0.3",
     "react-slick": "^0.28.1",
     "slick-carousel": "^1.8.1",
-    "styled-components": "^5.2.3",
+    "styled-components": "^5.3.3",
     "tailwindcss": "^2.1.1",
     "twin.macro": "^2.4.2",
     "use-in-view": "^1.0.15"
